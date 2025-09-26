@@ -37,10 +37,27 @@ The model is trained on **50,000 training images** and tested on **10,000 images
 
 ---
 
+#Image Tagging Project Outputs 🖼️
+
+This folder contains screenshots showing the **training progress, model evaluation, and predictions** of the Image Tagging Project using CNN and CIFAR-10 dataset.
+
+---
+
+## 🔹 Training Progress
+
+These screenshots show the **model training across epochs**, including accuracy and loss improvements over time.
+
+![Training Epochs 1](screenshots/training_epoch_1.png)
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 090301" src="https://github.com/user-attachments/assets/cf045325-6e5f-442c-bd42-0ed4854ec7e3" />
+
+
 ## 🔹 Requirements
 
 Make sure you have Python installed (preferably **Python 3.10+**) and the following libraries:
 
 ```bash
 pip install tensorflow numpy matplotlib pillow
+
+
 
