@@ -51,6 +51,10 @@ These screenshots show the **model training across epochs**, including accuracy 
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-26 090301" src="https://github.com/user-attachments/assets/cf045325-6e5f-442c-bd42-0ed4854ec7e3" />
 
+# 🔹 Accuracy, and Predictions
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 090321" src="https://github.com/user-attachments/assets/98f53a61-9419-4cec-bf83-c786f0729e9a" />
+
+
 
 ## 🔹 Requirements
 
@@ -58,6 +62,7 @@ Make sure you have Python installed (preferably **Python 3.10+**) and the follow
 
 ```bash
 pip install tensorflow numpy matplotlib pillow
+
 
 
 
